@@ -18,7 +18,7 @@ text-align: center;
 .bio__interests {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly; /* Evenly space the child elements */
+    float: left; /* Evenly space the child elements */
 }
 
 .interest {
